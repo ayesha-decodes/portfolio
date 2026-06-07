@@ -1,4 +1,3 @@
-````markdown
 # 🌸 Ayesha Nagma – Portfolio Website
 
 A modern, elegant, and fully responsive personal portfolio website built to showcase my journey in Artificial Intelligence, Machine Learning, Web Development, and Data Science.
@@ -233,5 +232,5 @@ It helps support the project and motivates future improvements.
 
 ---
 
-### Create • Inspire • Elevate ✨
+### Create • Inspire • Elevate ✨vate ✨
 ````
