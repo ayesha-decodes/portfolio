@@ -4,17 +4,7 @@ A modern, elegant, and fully responsive personal portfolio website built to show
 
 Designed with a luxury-inspired aesthetic featuring warm beige tones, soft rose accents, smooth animations, and immersive scrolling interactions.
 
----
 
-## ✨ Live Preview
-
-🔗 Add your deployed portfolio link here
-
-```bash
-https://your-portfolio-link.com
-```
-
----
 
 ## 📖 About The Project
 
